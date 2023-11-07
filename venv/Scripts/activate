@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\gabri\Documents\8ISC21\Negocios_y_Analitica_de_negocios\API_DJANGO\venv"
+VIRTUAL_ENV="C:\Users\gabri\Documents\8ISC21\Negocios_y_Analitica_de_negocios\API_DJANGO_c\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
